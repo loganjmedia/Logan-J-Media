@@ -29,6 +29,7 @@
 	-moz-transition: all 0.4s ease 0s;
 	-webkit-transition: all 0.4s ease 0s;
 	-o-transition: all 0.4s ease 0s;
+	font-family: 'Fjalla One', sans-serif;
 }
 
 .header:before {
@@ -45,7 +46,7 @@
 .header .logo {
 	position: relative;
 	float: left;
-	font-family: 'Kaushan Script', helvetica;
+	font-family: 'Fjalla One', sans-serif;
 	font-size: 32px;
 	line-height: 46px;
 	font-weight: 600;
@@ -168,19 +169,19 @@
 	-moz-transition: all 0.4s ease 0s;
 	-webkit-transition: all 0.4s ease 0s;
 	-o-transition: all 0.4s ease 0s;
-	box-shadow: inset 0 0 0 #78af48;
-	-moz-box-shadow: inset 0 0 0 #78af48;
-	-webkit-box-shadow: inset 0 0 0 #78af48;
-	-khtml-box-shadow: inset 0 0 0 #78af48;
+	box-shadow: inset 0 0 0 #4f98ca;
+	-moz-box-shadow: inset 0 0 0 #4f98ca;
+	-webkit-box-shadow: inset 0 0 0 #4f98ca;
+	-khtml-box-shadow: inset 0 0 0 #4f98ca;
 }
 
 .header .top-menu ul li:hover a,
 .header .top-menu ul li.active a {
 	color: #292929;
-	box-shadow: inset 0 -6px 0 #78af48;
-	-moz-box-shadow: inset 0 -6px 0 #78af48;
-	-webkit-box-shadow: inset 0 -6px 0 #78af48;
-	-khtml-box-shadow: inset 0 -6px 0 #78af48;
+	box-shadow: inset 0 -6px 0 #4f98ca;
+	-moz-box-shadow: inset 0 -6px 0 #4f98ca;
+	-webkit-box-shadow: inset 0 -6px 0 #4f98ca;
+	-khtml-box-shadow: inset 0 -6px 0 #4f98ca;
 }
 
 @media (max-width: 1079px) {
@@ -225,7 +226,7 @@
 }
 
 .header.filled .logo a {
-	color: #292929;
+	color: #4f98ca;
 }
 
 .header.filled .menu-btn span {
@@ -296,7 +297,7 @@
 	margin: 30px 50px 15px 50px;
 	font-size: 100px;
 	line-height: 100px;
-	color: #ffffff;
+	color: #4f98ca;
 	font-weight: 600;
 	letter-spacing: -0.045em;
 	transition: all 0.4s ease 0s;
@@ -323,7 +324,7 @@
 	border: none;
 }
 
-.section.started .socials a .icon {
+.section.started .socials{
 	color: #ffffff;
 }
 

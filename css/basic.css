@@ -444,10 +444,10 @@ a.btn,
 	line-height: 12px;
 	text-transform: uppercase;
 	cursor: pointer;
-	box-shadow: inset 0 -6px 0 #78af48;
-	-moz-box-shadow: inset 0 -6px 0 #78af48;
-	-webkit-box-shadow: inset 0 -6px 0 #78af48;
-	-khtml-box-shadow: inset 0 -6px 0 #78af48;
+	box-shadow: inset 0 -6px 0 #4f98ca;
+	-moz-box-shadow: inset 0 -6px 0 #4f98ca;
+	-webkit-box-shadow: inset 0 -6px 0 #4f98ca;
+	-khtml-box-shadow: inset 0 -6px 0 #4f98ca;
 	transition: all 0.4s ease 0s;
 	-moz-transition: all 0.4s ease 0s;
 	-webkit-transition: all 0.4s ease 0s;
@@ -456,10 +456,10 @@ a.btn,
 
 a.btn:hover,
 .btn:hover {
-	box-shadow: inset 0 -14px 0 #78af48;
-	-moz-box-shadow: inset 0 -14px 0 #78af48;
-	-webkit-box-shadow: inset 0 -14px 0 #78af48;
-	-khtml-box-shadow: inset 0 -14px 0 #78af48;
+	box-shadow: inset 0 -14px 0 #4f98ca;
+	-moz-box-shadow: inset 0 -14px 0 #4f98ca;
+	-webkit-box-shadow: inset 0 -14px 0 #4f98ca;
+	-khtml-box-shadow: inset 0 -14px 0 #4f98ca;
 }
 
 /* 7. Preloader */
